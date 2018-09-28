@@ -1,6 +1,6 @@
 FROM alpine 
 
-MAINTAINER Playa.Ru Team <info@playa.ru> 
+MAINTAINER "Playa.Ru Team" <info@playa.ru> 
 
 RUN apk update \ 
  && apk upgrade \ 
